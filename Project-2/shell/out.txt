@@ -1,0 +1,14 @@
+in.txt
+Makefile
+modules.order
+Module.symvers
+out.txt
+pid.c
+pid.ko
+pid.mod
+pid.mod.c
+pid.mod.o
+pid.o
+README.md
+simple-shell
+simple-shell.c
